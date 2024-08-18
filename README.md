@@ -1,4 +1,4 @@
-#**Global Electric Vehicle Dataset (2024)**
+**Global Electric Vehicle Dataset (2024)**
 
 This dataset contains detailed information on global electric vehicle (EV) statistics for the year 2024. It includes data on EV sales, market trends, geographical distribution, and more, offering a comprehensive view of the state of the electric vehicle market worldwide.
 
@@ -24,7 +24,7 @@ The dataset consists of multiple columns, each representing a specific attribute
 
 **Battery Technology**: Details on the types of battery technology used in electric vehicles.
 
-#**Key Insights**
+**Key Insights**
 
 -**Global Growth**: The dataset highlights significant growth in EV adoption across various regions, particularly in Europe, North America, and Asia.
 
@@ -34,7 +34,7 @@ The dataset consists of multiple columns, each representing a specific attribute
 
 -**Environmental Impact**: The data shows a notable reduction in CO2 emissions in regions with higher EV adoption, supporting the global push towards sustainability.
 
-#**Usage**
+**Usage**
 
 This dataset can be used for various purposes, including:
 
